@@ -1,3 +1,9 @@
 Rincian Materi
-Html
+
+Html css
 JS
+Desain UI/UX
+PHP
+Database MySql
+Framework HTML
+Rest API
