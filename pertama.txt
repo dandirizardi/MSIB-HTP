@@ -1,5 +1,4 @@
 Rincian Materi
-
 Html css
 JS
 Desain UI/UX
@@ -7,3 +6,4 @@ PHP
 Database MySql
 Framework HTML
 Rest API
+Final Project
