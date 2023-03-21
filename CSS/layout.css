@@ -15,7 +15,7 @@ body{
     background-color: black;
 }
 .topnav a{
-    float: right;
+    float: left;
     display: blok;
     color: white;
     text-align: center;
